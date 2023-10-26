@@ -3,7 +3,7 @@ package codigofacilito.java.desarrollojava.ciclos;
 public class DoWhile {
 
 	public static void main(String[] args) {
-		int contador = 10;
+		int contador = 1;
 		
 		do {
 			System.out.println(contador);
